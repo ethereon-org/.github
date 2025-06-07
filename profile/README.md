@@ -4,7 +4,7 @@
 
 ---
 
-**Ethereon** is a developer-first, privacy-focused open-source collective.  
+**marvlock** is a developer-first, privacy-focused open-source collective.  
 We build tools for students, indie hackers, and curious minds — lightweight, self-hostable, and forever free.
 
 We believe:
