@@ -1,4 +1,4 @@
-# marvlock.dev
+# Project Marvlock
 
 > **Open-source tools that feel light, run fast, and respect your space.**
 
