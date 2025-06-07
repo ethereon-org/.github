@@ -4,7 +4,7 @@
 
 ---
 
-**marvlock** is a developer-first, privacy-focused open-source collective.  
+**Project Marvlock** is a developer-first, privacy-focused open-source collective.  
 We build tools for students, indie hackers, and curious minds — lightweight, self-hostable, and forever free.
 
 We believe:
